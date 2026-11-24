@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 version 21H1 or later / Rec: Windows 11 | macOS 12 or later |
+| **Processor** | Min: Dual Core 2 GHz / Rec: Intel Core i7-8700K or equivalent | Dual Core 2 GHz |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: Intel HD 4600 (AMD or NVIDIA equivalent) / Rec: Dedicated graphic card with 2GB VRAM | Intel HD 4600 (AMD or NVIDIA equivalent) |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 3 GB available space | 3 GB available space |
 
 ---
 
